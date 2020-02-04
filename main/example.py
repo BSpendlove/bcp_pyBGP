@@ -1,4 +1,4 @@
-from bgpview_controller import *
+from bgpview_controller import bgpviewController
 
 controller = bgpviewController()
 print(controller.get_asn_details(65132))
