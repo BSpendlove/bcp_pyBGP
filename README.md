@@ -1,5 +1,5 @@
-# bcp_pyBGP
-Brandon's Cisco Project - Python BGP Viewer
+# pybgpview
+Python Module that handles requests towards the BGPView application developed by SecurityTrails.
 
 This project is a quick and dirty Python API to interact with the bgpview's API (https://bgpview.io/)
 
